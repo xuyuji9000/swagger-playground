@@ -2,6 +2,8 @@
 
 - Start UI: `docker run -p 80:8080 swaggerapi/swagger-ui`
 
+- Start Editor: `docker run -p 80:8080 swaggerapi/swagger-editor`
+
 
 # Reference
 
