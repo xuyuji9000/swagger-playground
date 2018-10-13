@@ -11,4 +11,4 @@
 
 2. [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
 
-3. [ OpenAPI-Specification/examples/v2.0/yaml/petstore-minimal.yaml](https://github.com/OAI/OpenAPI-Specification/blob/master/examples/v2.0/yaml/petstore-minimal.yaml)
+3. [ OpenAPI-Specification/examples/v2.0/yaml/petstore-minimal.yaml](https://raw.githubusercontent.com/OAI/OpenAPI-Specification/master/examples/v2.0/yaml/petstore-minimal.yaml)
