@@ -2,12 +2,12 @@
 
 var SwaggerExpress = require('swagger-express-mw');
 var app = require('express')();
+
 const swaggerUi = require('swagger-ui-express');
 const YAML = require('yamljs');
 const swaggerDocument = YAML.load('./api/swagger/swagger.yaml');
 
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
-
 
 module.exports = app; // for testing
 
